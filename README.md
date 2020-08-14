@@ -16,10 +16,9 @@
 - I'm currently learning AI and Neural Network Development 🕸 and working on my Data Structures and Algorithms also 🤓.
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
----
 
 ### 👨💻 Languages and Tools 💻👨
 [![Spring](https://img.shields.io/badge/-Spring-g?style=flat&logo=spring&logoColor=white&link=https://github.com/rahul-ghadge)](https://github.com/rahul-ghadge) 
@@ -75,5 +74,4 @@
   <img src="https://profile-counter.glitch.me/rahul-ghadge/count.svg" />
 </p>
 -->
-
 
