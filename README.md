@@ -64,7 +64,7 @@
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 ![Rahul Ghadage Github Stats](https://github-readme-stats.vercel.app/api?username=rahul-ghadge&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<a href="https://github.com/ashwanisng">
+<a href="https://github.com/rahul-ghadge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-ghadge&theme=radical" />
 </a>
 
