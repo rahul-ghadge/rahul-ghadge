@@ -1,7 +1,7 @@
 
 # Hi I'm Rahul 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rahu_Ghadage-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-ghadage-45a858134/)](https://www.linkedin.com/in/rahul-ghadage-9596471b8/)
+[![Linkedin Badge](https://img.shields.io/badge/-Rahu_Ghadage-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-ghadage-45a858134/)](https://www.linkedin.com/in/rahul-ghadage/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Rahu_Ghadage-g?style=flat&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/8588060/rahul-ghadage)](https://stackoverflow.com/users/8588060/rahul-ghadage)
 [![Github Badge](https://img.shields.io/badge/-Rahu_Ghadage-orange?style=flat&logo=github&logoColor=white&link=https://github.com/rahul-ghadge)](https://github.com/rahul-ghadge)
 
